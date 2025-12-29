@@ -2,7 +2,7 @@
 My name is Daudi. I am a junior computer programmer. I am interested in Cybersecurity | Data Analysis| Data Visualization | Data Scientist in Python-related fields.
 
 - 🔭 I’m currently working on Data analysis: Pandas, Matplotlib, and Seaborn
-- 🌱 I’m currently learning Data visualization with Python libraries
+- 🌱 I’m currently learning Data Visualization with Python Libraries
 - 👯 I’m looking to collaborate on Python projects
 - 📫 You can reach me at mlengelad@gmail.com
 
