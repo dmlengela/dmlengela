@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🔭 I’m currently working on Data analysis: pandas, matplotlib, and seaborn
+- 🌱 I’m currently learning Data visualization with Python libraries
+- 👯 I’m looking to collaborate on Python projects
+
 
 <!--
 **dmlengela/dmlengela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
